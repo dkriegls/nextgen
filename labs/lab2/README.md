@@ -1,6 +1,7 @@
 # Lab 2 – Basic page markup
 
 Objective: Since it is important to understand the basic HTML5 Skeleton Structure and how to apply basic HTML tag markup, we are going to do another basic example in this lab. The tags and structure used here should be something that you can type up from memory. Take the supplied text and image showing how the formatting should look in the HTML and make the HTML page. Unlike lab 1, I am not going to tell you which tags to use.
+
 Process:
 <ol>
   <li>Using your text editor, create a new plain text file and save it as “index.html”. If your editor asks for encoding you want “UTF-8”.</li>
