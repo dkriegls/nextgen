@@ -1,7 +1,9 @@
-#These are the links we will use:
+# These are the links we will use:
 
-(https://desktop.github.com/ "github desktop")
-(https://notepad-plus-plus.org "notepad plus plus") 
-(https://validator.w3.org HTML "validator")
-(https://jigsaw.w3.org/css-validator/ "CSS validatator")
-(https://developer.mozilla.org/en-US/ "Mozilla Development Network")
+<ul>
+  <li><a href="https://desktop.github.com" title="github desktop">github desktop</a></li>
+  <li><a href="https://notepad-plus-plus.org" title="notepad plus plus">notepad plus plus</a></li> 
+  <li><a href="https://validator.w3.org" title="HTML validator">HTML validator</a></li>
+  <li><a href="https://jigsaw.w3.org/css-validator/" title="CSS validatator">CSS validatator</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/" title="Mozilla Development Network">Mozilla Development Network</a></li>
+</ul>
