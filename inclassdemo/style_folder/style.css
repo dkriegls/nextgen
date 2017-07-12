@@ -1,0 +1,58 @@
+h1 {
+  width: 50%;
+  margin: 0 25%;
+  text-align: center;
+}
+
+.greenf {
+  color: green;
+}
+
+#big {
+  font-size: 60px;
+}
+
+#red {
+  width: 100%;
+  height: 30px;
+  background-color: red;
+  position: fixed;
+}
+
+img {
+  position: relative;
+  left: 200px;
+}
+
+/*starting nav css*/
+nav {
+  position: absolute;
+  right: 10px;
+  top: 20px;
+  background-color: purple;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;  
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li:hover {
+  background-color: yellow;
+}
+
+nav ul li a:hover {
+  color:black;
+  }
+  
+nav ul li a {
+  display: block;
+  padding: 0 5px;
+  text-decoration: none;
+  color: white;
+}
